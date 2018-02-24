@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    hell laravel 
+                  HELL Word!
                 </div>
 
                 <div class="links">
